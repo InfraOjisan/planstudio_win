@@ -1,1 +1,6 @@
-# planstudio_win
+# PlanStudio(Win)
+
+* Windows用のGUIバイナリです
+* plan_studioのsutdio/配下のpythonファイル群は別途必要です
+* LLM接続情報：初回起動時に、接続先URLとAPIキーを入力します、編集はできません（上書き補完のみ可）
+* 実行ファイルはデジタル署名されていないため、セキュリティ設定によっては警告や実行制限が出る可能性があります
